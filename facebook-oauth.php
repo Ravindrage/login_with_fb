@@ -5,8 +5,8 @@
 session_start();
 // Update the following variables
 // Update the following variables
-$facebook_oauth_app_id = '227996444620144';
-$facebook_oauth_app_secret = '028cd5e6448c3857d714829f5dda96b1';
+$facebook_oauth_app_id = '';
+$facebook_oauth_app_secret = '';
 // Must be the direct URL to the facebook-oauth.php file
 $facebook_oauth_redirect_uri = 'http://localhost/lgFb/facebook-oauth.php';
 $facebook_oauth_version = 'v18.0';
